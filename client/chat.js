@@ -1,4 +1,4 @@
-function newMatch() {
+function newChat() {
     const DING = new Audio("ding.wav");
     DING.play()
     document.getElementById("successIndicator").innerHTML = "Success!";
